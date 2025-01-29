@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java,Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://663cf608cc02ef11d892cfe4--classy-sundae-45b657.netlify.app/](https://663cf608cc02ef11d892cfe4--classy-sundae-45b657.netlify.app/)
+- 👨‍💻 All of my projects are available at goutampatidar23
 
 - 💬 Ask me about **Anything whatever you want to ask**
 
